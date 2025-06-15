@@ -1,1 +1,10 @@
 .venv
+env.py
+_pycache_/
+*.py[cod]
+node_modules/
+.github/
+cloudinary_python.txt
+core.Microsoft*
+core.mango*
+core.python*
